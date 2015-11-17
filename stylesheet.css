@@ -1,0 +1,108 @@
+body {
+	font-family: "Trebuchet MS", 
+	Helvetica, sans-serif;
+	font-size: 20px;
+	background-image: url("https://static.pexels.com/photos/7477/night-trees-stars.jpg");
+	background-position: center;
+	background-size: 3500px;
+}
+
+body {
+	background:;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.content {
+	margin-left:10%;
+	margin-right:10%;
+}
+
+.Header a{
+
+	color: #5E8282;
+	font-size: 50px;
+	margin-bottom: -30px;
+}
+
+.Header {
+
+	color: #194C4C;
+	text-align: left;
+	font-size: 20px;
+	background: ("https://static.pexels.com/photos/7477/night-trees-stars.jpg");
+	margin-bottom: 10px;
+	margin-left: 5%;
+	margin-right: auto;
+}
+	
+
+.nav{
+	display: inline-flex;
+	background-color: #29293D;
+	color: #000033;
+	padding: 0;
+	width: 120px;
+	margin-left: 10px;
+	text-align: center;
+	font-size: 18px;
+	margin-top: 10px;
+}
+
+.content .photos {
+
+	border-color:#08052D;
+	text-align: center;
+	margin-bottom: 30px;
+
+}
+
+
+.content .shopnow a{
+
+	color: #fff;
+	border-radius: 8px;
+	background-color: #993333;
+	padding: 5px;
+	font-size: 40px;
+	margin-bottom:20%;
+	margin-left: 5%;
+}
+
+.content .likeus {
+	color: #fff;
+	padding-bottom: 20px;
+	border-color: #fff;
+	margin-top:20px;
+	margin-left: 20%;
+	font-size: 30px;
+}
+
+.content .box{
+	margin-top: -280px;
+	width: 300px;
+	height: 280px;
+	margin-left: 500px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.foot {
+	margin-top:100px;
+}
+
+.foot ul li{
+	list-style-type: none;
+	display: block;
+	text-align: center;
+	font-size: 15px;
+	background-color: #636393;
+	opacity: 75%;
+	color: #282828;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
